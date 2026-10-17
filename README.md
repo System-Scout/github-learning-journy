@@ -1,16 +1,29 @@
-# My Github-learning-journey
 
-## About This Project
-I am Learning Github from beginner to Advanced.
+# My GitHub Learning Journey 🚀
 
-## What I am Learning
--Repositories
--Commits
--Branches
--Pull Requests
--Github Pages
--Open Source Contribution
+Welcome to my GitHub learning journey!
 
-## My Goal
-To understand GitHub and manage my programing projects.
+## About
+I am learning GitHub and practising web development.
 
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- Git and GitHub
+
+## Projects
+
+### My First Website
+A simple webpage built using HTML.
+
+## What I Am Learning
+- [x] Create a repository
+- [x] Upload files
+- [x] Commit changes
+- [ ] Organise folders
+- [ ] Learn branches
+- [ ] Publish a website using GitHub Pages
+
+## Goal
+Learn to build projects and manage them professionally using GitHub.
